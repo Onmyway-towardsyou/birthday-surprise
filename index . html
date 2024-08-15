@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Birthday, [Osama]!</h1>
+        <p>A wish for you on your birthday, whatever you ask may you receive, whatever you seek may you find, whatever you wish may it be fulfilled on your birthday and always. HaPpY bIrThDaY</p>
+        <img src="birthday_cake.jpg" alt="Birthday Cake">
+        <p>From, [Me]</p>
+    </div>
+</body>
+</html>
